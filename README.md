@@ -2,7 +2,6 @@
 
 A premium, responsive frontend implementation of the HDFC Bank digital account opening flow. This project demonstrates a modern user interface with HDFC branding, featuring a multi-step form, drag-and-drop document upload, and interactive validation.
 
-![Project Screenshot](file:///C:/Users/shakh/.gemini/antigravity/brain/cec3b189-eba8-4fac-b72b-acb6a41bc539/hdfc_page_loaded_1765196697065.png)
 
 ## Features
 
@@ -52,3 +51,4 @@ This project is for educational/demonstration purposes only.
 
 **Report Prepared By:** Laxmi Thapa
 **ID Number:** DT.25
+
